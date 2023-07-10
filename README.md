@@ -24,5 +24,16 @@ When the timer starts, the user will see different boxes which have labels – s
 As a Python learner, I have discovered various modifications that can be implemented to enhance my progress. Reflecting on my journey, I identified specific areas that could benefit from improvement and implementation. First and foremost, integrating data validations into the program can significantly boost its overall performance. Considering that users might input incorrect values such as floats, negatives, strings, or non-integers, incorporating code to prevent these errors would be highly advantageous. Despite the existence of mistakes and areas for enhancement, I firmly believe this program has provided me with invaluable opportunities to enhance my Python skills. Throughout this process, I have acquired knowledge about several Python features and functions, such as applying GUI, utilizing the time library function, and working with functions within GUI, among others. Furthermore, I have also leveraged and strengthened my pre-existing Python skills. Nonetheless, I am fully aware of the program's imperfections and remain dedicated to refining it further.
 
 # Side Note
-The second file uploaded is a small guide about GUI, which I learned through research. Files would be uploaded to show my process of coding this program. 
+The second file uploaded is a small guide about GUI, which I learned through research. Another uploaded file is named "Timer Base" which solely includes the timer. When the user runs this file, the current time and the timer would be the only features. 
+***
+To run "Timer Base", the user has to change the setting of run configuration. 
+1. In Edit Configuration menu,  choose "Edit configuration templates..." at the left down corner of the menu.
+2. Another tab would be opened.
+3. Please choose "Python" from the side bar
+4. Scroll down (if needed) to find the "Execution" settings.
+5. Check the "Emulate terminal in output console"
+6. All Set 
+
+
+
 
